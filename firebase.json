@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "myweb-edc1e",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
